@@ -18,5 +18,5 @@ public class SpringboothibernateApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringboothibernateApplication.class, args);
 	}
-
+//end
 }
